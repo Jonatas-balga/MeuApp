@@ -12,3 +12,4 @@
 /home/pc-jonatas-2223108258/MeuApp/obj/Debug/net8.0/MeuApp.pdb
 /home/pc-jonatas-2223108258/MeuApp/obj/Debug/net8.0/MeuApp.genruntimeconfig.cache
 /home/pc-jonatas-2223108258/MeuApp/obj/Debug/net8.0/ref/MeuApp.dll
+/home/pc-jonatas-2223108258/MeuApp/obj/Debug/net8.0/MeuApp.sourcelink.json
